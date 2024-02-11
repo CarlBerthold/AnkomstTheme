@@ -32,6 +32,12 @@
           "settings": {
           }
         },
+        "izyrent_product_calendar_rwCkpP": {
+          "type": "shopify:\/\/apps\/izyrent\/blocks\/productCalendar\/cda4a37a-6d4d-4f3d-b8e5-c19d5c367c6a",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -77,12 +83,6 @@
             "content": "<p>Baujahr: {{ product.metafields.custom.technische_daten.value.baujahr.value }}<br\/>Länge: {{ product.metafields.custom.technische_daten.value.lange | metafield_tag }}<br\/>Breite: {{ product.metafields.custom.technische_daten.value.breite | metafield_tag }}<br\/>Tiefgang: {{ product.metafields.custom.technische_daten.value.tiefgang | metafield_tag }}<br\/>Segelfläche: {{ product.metafields.custom.technische_daten.value.segelflache.value }}<\/p>",
             "page": ""
           }
-        },
-        "izyrent_product_calendar_rwCkpP": {
-          "type": "shopify:\/\/apps\/izyrent\/blocks\/productCalendar\/cda4a37a-6d4d-4f3d-b8e5-c19d5c367c6a",
-          "settings": {
-            "product": "{{product}}"
-          }
         }
       },
       "block_order": [
@@ -91,13 +91,13 @@
         "price",
         "variant_picker",
         "description",
+        "izyrent_product_calendar_rwCkpP",
         "quantity_selector",
         "buy_buttons",
         "share",
         "inventory_j7aRQ9",
         "collapsible_tab_QJyHjf",
-        "collapsible_tab_pCXNpX",
-        "izyrent_product_calendar_rwCkpP"
+        "collapsible_tab_pCXNpX"
       ],
       "settings": {
         "enable_sticky_info": true,
