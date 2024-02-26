@@ -462,6 +462,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "custom_liquid_PFz3CR": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h1>test<\/h1>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -474,6 +483,7 @@
     "multicolumn_xtbJTL",
     "collection_list_zXMTBV",
     "related-products",
-    "image_with_text_6jEGfn"
+    "image_with_text_6jEGfn",
+    "custom_liquid_PFz3CR"
   ]
 }
