@@ -147,7 +147,7 @@
         "essential_grid_gallery_app_block_mRnJbM": {
           "type": "shopify:\/\/apps\/essential-grid-gallery\/blocks\/app-block\/b252af1e-c43a-4272-b19c-e87bc447c686",
           "settings": {
-            "eg_grid_metakey": 1,
+            "eg_grid_metakey": 2,
             "eg_grid_heading": "",
             "eg_grid_sub_heading": "",
             "eg_grid_heading_size": 30,
