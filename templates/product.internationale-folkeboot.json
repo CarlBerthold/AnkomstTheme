@@ -168,12 +168,6 @@
         "include_margins": true
       }
     },
-    "17086828782ffbfaa5": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "multicolumn_X7R47M": {
       "type": "multicolumn",
       "blocks": {
@@ -421,18 +415,65 @@
         "padding_top": 36,
         "padding_bottom": 68
       }
+    },
+    "image_with_text_6jEGfn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Ew77zh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_DW6Q9h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_BHdrXD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ew77zh",
+        "text_DW6Q9h",
+        "button_BHdrXD"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.custom.mehrbilder.value }}",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "rich_text_qqwqhL",
     "1708685992d24cb613",
-    "17086828782ffbfaa5",
     "multicolumn_X7R47M",
     "image_with_text_G34tJz",
     "featured_collection_GGL48X",
     "multicolumn_xtbJTL",
     "collection_list_zXMTBV",
-    "related-products"
+    "related-products",
+    "image_with_text_6jEGfn"
   ]
 }
