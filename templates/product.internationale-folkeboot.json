@@ -147,7 +147,7 @@
         "essential_grid_gallery_app_block_mRnJbM": {
           "type": "shopify:\/\/apps\/essential-grid-gallery\/blocks\/app-block\/b252af1e-c43a-4272-b19c-e87bc447c686",
           "settings": {
-            "eg_grid_metakey": 2,
+            "eg_grid_metakey": 1,
             "eg_grid_heading": "",
             "eg_grid_sub_heading": "",
             "eg_grid_heading_size": 30,
@@ -415,62 +415,6 @@
         "padding_top": 36,
         "padding_bottom": 68
       }
-    },
-    "image_with_text_6jEGfn": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Ew77zh": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "text_DW6Q9h": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_BHdrXD": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ew77zh",
-        "text_DW6Q9h",
-        "button_BHdrXD"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.custom.mehrbilder.value }}",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "custom_liquid_PFz3CR": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<h1>test<\/h1>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -482,8 +426,6 @@
     "featured_collection_GGL48X",
     "multicolumn_xtbJTL",
     "collection_list_zXMTBV",
-    "related-products",
-    "image_with_text_6jEGfn",
-    "custom_liquid_PFz3CR"
+    "related-products"
   ]
 }
