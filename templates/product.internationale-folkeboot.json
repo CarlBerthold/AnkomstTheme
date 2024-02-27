@@ -147,7 +147,6 @@
         "slide_wweegH": {
           "type": "slide",
           "settings": {
-            "image": "{{ product.metafields.custom.bilder.value.bilderino.value.bild.value }}",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -165,7 +164,6 @@
         "slide_XNjLBJ": {
           "type": "slide",
           "settings": {
-            "image": "{{ product.metafields.custom.bilder.value.bild.value }}",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
