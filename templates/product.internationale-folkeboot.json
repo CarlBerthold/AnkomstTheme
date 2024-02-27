@@ -146,6 +146,7 @@
       "blocks": {
         "essential_grid_gallery_app_block_mRnJbM": {
           "type": "shopify:\/\/apps\/essential-grid-gallery\/blocks\/app-block\/b252af1e-c43a-4272-b19c-e87bc447c686",
+          "disabled": true,
           "settings": {
             "eg_grid_metakey": 1,
             "eg_grid_heading": "",
@@ -162,7 +163,6 @@
         },
         "xo_gallery_xo_gallery_Q99aEW": {
           "type": "shopify:\/\/apps\/xo-gallery\/blocks\/xo-gallery\/e61dfbaa-1a75-4e4e-bffc-324f17325251",
-          "source": "{{ product.metafields.custom.bilder.value }}",
           "settings": {
             "type": "album",
             "id": 1,
