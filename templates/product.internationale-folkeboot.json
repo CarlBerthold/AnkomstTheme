@@ -162,10 +162,11 @@
         },
         "xo_gallery_xo_gallery_Q99aEW": {
           "type": "shopify:\/\/apps\/xo-gallery\/blocks\/xo-gallery\/e61dfbaa-1a75-4e4e-bffc-324f17325251",
+          "source": "{{ product.metafields.custom.bilder.value }}",
           "settings": {
-            "type": "gallery",
+            "type": "album",
             "id": 1,
-            "mid": ""
+            "mid": "{{ product.metafields.custom.bilder.value.name.value }}"
           }
         }
       },
