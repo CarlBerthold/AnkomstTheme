@@ -159,10 +159,19 @@
             "eg_grid_sec_pad_top": 0,
             "eg_grid_sec_pad_bot": 0
           }
+        },
+        "xo_gallery_xo_gallery_Q99aEW": {
+          "type": "shopify:\/\/apps\/xo-gallery\/blocks\/xo-gallery\/e61dfbaa-1a75-4e4e-bffc-324f17325251",
+          "settings": {
+            "type": "gallery",
+            "id": 1,
+            "mid": ""
+          }
         }
       },
       "block_order": [
-        "essential_grid_gallery_app_block_mRnJbM"
+        "essential_grid_gallery_app_block_mRnJbM",
+        "xo_gallery_xo_gallery_Q99aEW"
       ],
       "settings": {
         "include_margins": true
