@@ -158,6 +158,46 @@
         "padding_top": 0,
         "padding_bottom": 68
       }
+    },
+    "collection_list_hMGkPK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_WJAAqm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "standorte-deutschland"
+          }
+        },
+        "featured_collection_U98HA3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_CjzkxU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_WJAAqm",
+        "featured_collection_U98HA3",
+        "featured_collection_CjzkxU"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -165,6 +205,7 @@
     "rich_text",
     "featured_collection_jcdeqE",
     "collage-0",
-    "featured-collection"
+    "featured-collection",
+    "collection_list_hMGkPK"
   ]
 }
