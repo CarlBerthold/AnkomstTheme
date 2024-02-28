@@ -5,9 +5,8 @@
       "blocks": {
         "heading_in7cTH": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "",
+            "heading": "ANKOMST",
             "heading_size": "h1"
           }
         },
