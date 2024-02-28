@@ -165,6 +165,7 @@
         "slide_XNjLBJ": {
           "type": "slide",
           "settings": {
+            "image": "{{ product.metafields.custom.bilder.value.slide_2.value }}",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
