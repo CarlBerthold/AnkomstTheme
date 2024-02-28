@@ -201,6 +201,7 @@
         "slide_hQrwkE": {
           "type": "slide",
           "settings": {
+            "image": "{{ product.metafields.custom.bilder.value.slide_4.value }}",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
