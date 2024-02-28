@@ -1,5 +1,52 @@
 {
   "sections": {
+    "image_with_text_Jhn6Er": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_AKpdJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_NQjD8X": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_8f83xM": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AKpdJr",
+        "text_NQjD8X",
+        "button_8f83xM"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/folke_segeln.jpg",
+        "height": "medium",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "section_color_scheme": "accent-1",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "right",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -84,6 +131,7 @@
     }
   },
   "order": [
+    "image_with_text_Jhn6Er",
     "rich_text",
     "collage-0",
     "featured-collection"
