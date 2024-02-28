@@ -75,7 +75,7 @@
     "featured_collection_jcdeqE": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "{{ section.settings.collection.title }}",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
