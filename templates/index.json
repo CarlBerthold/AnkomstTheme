@@ -170,12 +170,14 @@
         },
         "featured_collection_U98HA3": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
         },
         "featured_collection_CjzkxU": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
