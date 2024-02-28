@@ -37,7 +37,7 @@
         "image": "shopify:\/\/shop_images\/folke_segeln.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
