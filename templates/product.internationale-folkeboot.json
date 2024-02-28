@@ -219,6 +219,7 @@
         "slide_JVmdNK": {
           "type": "slide",
           "settings": {
+            "image": "{{ product.metafields.custom.bilder.value.slide_5.value }}",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
