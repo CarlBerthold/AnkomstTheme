@@ -106,7 +106,7 @@
           "type": "heading",
           "settings": {
             "heading": "{{ product.vendor }} -<em>{{ product.metafields.custom.ausstattung.value.hoppas.value }}<\/em>",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "text_jUaL68": {
@@ -118,7 +118,7 @@
         "button_KfREYN": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
