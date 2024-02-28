@@ -23,7 +23,7 @@
         "izyrent_product_calendar_6Jq9de": {
           "type": "shopify:\/\/apps\/izyrent\/blocks\/productCalendar\/cda4a37a-6d4d-4f3d-b8e5-c19d5c367c6a",
           "settings": {
-            "product": "{{product}}"
+            "product": "hoppas"
           }
         },
         "variant_picker": {
