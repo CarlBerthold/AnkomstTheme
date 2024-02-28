@@ -462,6 +462,18 @@
         "featured_collection_tADebH": {
           "type": "featured_collection",
           "settings": {
+            "collection": "hochseeyachten"
+          }
+        },
+        "featured_collection_qb8GBC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "if-folkeboote"
+          }
+        },
+        "featured_collection_dgchYL": {
+          "type": "featured_collection",
+          "settings": {
             "collection": ""
           }
         },
@@ -480,6 +492,8 @@
       },
       "block_order": [
         "featured_collection_tADebH",
+        "featured_collection_qb8GBC",
+        "featured_collection_dgchYL",
         "featured_collection_H4hE4Q",
         "featured_collection_DtWkTJ"
       ],
