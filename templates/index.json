@@ -5,6 +5,7 @@
       "blocks": {
         "heading_AKpdJr": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1"
@@ -19,6 +20,7 @@
         },
         "button_8f83xM": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "",
             "button_link": "",
