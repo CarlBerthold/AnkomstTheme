@@ -112,7 +112,7 @@
         "text_jUaL68": {
           "type": "text",
           "settings": {
-            "text": "<p>EMOTIONALE PRODUKTBESCHREIBUNG<br\/><\/p><p>Schwedens bewährter und beliebter Familien-, Regatten- und Fahrtensegler. Leicht <br\/>zu segeln, extrem seetüchtig und bequem, macht das Segeln zum Vergnügen!Schwedens bewährter und beliebter Familien-, Regatten- und Fahrtensegler. Leicht <br\/>zu segeln, extrem seetüchtig und bequem, macht das Segeln zum Vergnügen!<\/p><p><br\/>erwähnung besondere ausstattungsmerkmale <\/p>"
+            "text": "<p>{{ product.metafields.custom.emotinale_beschreibung | metafield_tag }}<\/p>"
           }
         },
         "button_KfREYN": {
